@@ -10,7 +10,7 @@ variable "aws_region" {
   description = "The AWS region things are created in"
 }
 
-variable "ec2_task_execution_role_name" {
+variable "ecs_task_execution_role_name" {
   description = "ECS task execution role name"
   default     = "myEcsTaskExecutionRole"
 }

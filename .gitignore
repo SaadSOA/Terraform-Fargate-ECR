@@ -7,3 +7,5 @@
 .terraform.lock.hcl
 .terraform.tfstate.lock.info
 .terraform/
+
+.DS_Store
