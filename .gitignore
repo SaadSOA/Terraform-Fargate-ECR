@@ -8,4 +8,5 @@
 .terraform.tfstate.lock.info
 .terraform/
 
+# Unnecassery file created
 .DS_Store
